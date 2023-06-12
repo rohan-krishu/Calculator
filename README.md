@@ -35,4 +35,4 @@ For additional details and updates, please visit the [GitHub repository](https:/
 
 ## Deployed Version
 
-The deployed version of the Calculator App can be accessed [here](https:).
+The deployed version of the Calculator App can be accessed [here](https://simplecalcapp.netlify.app/).
